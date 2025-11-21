@@ -21,6 +21,9 @@
     <ClInclude Include="playerClass.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="addplayersfunction.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="hashmap.cpp">
@@ -33,6 +36,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="playercompfunction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="addplayerfunction.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

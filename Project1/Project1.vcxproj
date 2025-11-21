@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="hashmap.h" />
+    <ClInclude Include="addplayersfunction.h" />
     <ClInclude Include="playerClass.h" />
   </ItemGroup>
   <ItemGroup>
@@ -131,6 +132,7 @@
     <ClCompile Include="hashmap.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="playerClass.cpp" />
+    <ClCompile Include="addplayerfunction.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

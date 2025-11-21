@@ -85,7 +85,7 @@ void Hashmap::print()
 
 		for (; bItr != table[i].end(); bItr++)
 		{
-			std::cout << "Key: " << bItr->first << "Player: " << bItr->second << '\n';
+			std::cout << "Key: " << bItr->first << " Player: " << bItr->second << '\n';
 		}
 	}
 	return; 

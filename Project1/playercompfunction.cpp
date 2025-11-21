@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std; 
 #include <string>
-#include "functions.h"
+#include "playerClass.h"
 
 
 void comparePlayers(const Player& playerA, const Player& playerB)

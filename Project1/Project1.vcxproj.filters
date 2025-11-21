@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="functions.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="hashmap.h">
       <Filter>Header Files</Filter>
     </ClInclude>

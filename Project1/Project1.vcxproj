@@ -123,7 +123,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="functions.h" />
     <ClInclude Include="hashmap.h" />
     <ClInclude Include="playerClass.h" />
   </ItemGroup>

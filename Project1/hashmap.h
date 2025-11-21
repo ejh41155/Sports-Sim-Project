@@ -4,8 +4,9 @@
 #include <iostream>
 #include <list>
 #include <string>
+#include "playerClass.h"
 using namespace std; 
-#include "functions.h"
+
 
 class Hashmap
 {

@@ -17,15 +17,10 @@ Salary
 
 All of these values can be compared using the compare player function.
 
+How to Run: (An example is already set up in Main)
 
-How to Run: 
-
-Run the program frome
-
-
-
-
-
+Run the program from an IDe or Command Line
+Create the players using CreatePlayer Function, then insert them into the hashmap, and the run comparison function
 
 
 This project highlights:

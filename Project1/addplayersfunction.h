@@ -5,8 +5,5 @@
 #include "Hashmap.h"
 
 
-void CreatePlayerAndInsert(Hashmap& table);
-
-Player CreatePlayerFromInput();
 
 #endif
